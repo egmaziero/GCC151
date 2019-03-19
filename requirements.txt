@@ -1,3 +1,8 @@
+numpy
+h5py
+wget
 jupyter
 nltk
 spacy
+gensim
+nlpnet
