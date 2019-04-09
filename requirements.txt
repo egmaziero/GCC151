@@ -1,8 +1,7 @@
-numpy
-h5py
 jupyter
 nltk
 spacy
 gensim
-nlpnet
 beautifulsoup4
+justest
+urllib3
