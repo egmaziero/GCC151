@@ -3,5 +3,5 @@ nltk
 spacy
 gensim
 beautifulsoup4
-justest
+justext
 urllib3
