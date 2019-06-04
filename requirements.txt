@@ -1,7 +1,5 @@
 jupyter
 nltk
-spacy
-gensim
-beautifulsoup4
-justext
-urllib3
+wget
+pandas
+sklearn
